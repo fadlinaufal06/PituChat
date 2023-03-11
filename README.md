@@ -1,13 +1,10 @@
-# Getting Started with Create React App
+# React Frontend Challenge
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-THIS PROJECT IS A FRONTEND CHALLENGE WHICH DEPLOYED HERE : https://master--pituchat.netlify.app/home
+THIS PROJECT IS A FRONTEND CHALLENGE WHICH DEPLOYED WITH NETLIFY HERE : https://master--pituchat.netlify.app/home
 THIS Application mostly still a static components, but u can try to Login by just typing any email or password
 
 
-
-
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
 ## Available Scripts
