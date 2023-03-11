@@ -42,8 +42,8 @@ export default function App() {
   return(
     <BrowserRouter>
         <Routes>
-          <Route path="/login" element={<Login handleSubmit={onLogin} />} />
-          <Route path="/" element={<HomePage user={user} />} />
+          <Route path="/" element={<Login handleSubmit={onLogin} />} />
+          <Route path="/home" element={<HomePage user={user} />} />
         </Routes>
     </BrowserRouter>
 

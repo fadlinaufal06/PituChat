@@ -11,7 +11,7 @@ const Login = ({handleSubmit}) => {
   let navigate = useNavigate(); 
 
   const routeChange = () =>{ 
-    let path = `/`; 
+    let path = `/home`; 
     navigate(path);
   }
 
