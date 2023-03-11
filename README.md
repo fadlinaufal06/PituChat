@@ -2,6 +2,14 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+THIS PROJECT IS A FRONTEND CHALLENGE WHICH DEPLOYED HERE : https://master--pituchat.netlify.app/home
+THIS Application mostly still a static components, but u can try to Login by just typing any email or password
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
